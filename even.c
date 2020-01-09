@@ -1,5 +1,5 @@
 include <stdio.h>
-void main() {
+even main() {
     int num;
     printf("Enter an integer: ");
     scanf("%d", &num);
