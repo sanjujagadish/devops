@@ -1,5 +1,5 @@
 include <stdio.h>
-void main() {    
+sum main() {    
     int number1, number2, sum;
     
     printf("Enter two integers: ");
